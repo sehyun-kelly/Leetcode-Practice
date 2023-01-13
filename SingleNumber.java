@@ -1,4 +1,7 @@
-class Solution {
+import java.util.ArrayList;
+import java.util.List;
+
+class SingleNumber {
     public int singleNumber(int[] nums) {
         List<Integer> list = new ArrayList<>();
         
